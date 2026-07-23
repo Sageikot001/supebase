@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   title: 'Supebase | The Open Source Firebase Alternative',
   description: 'Build in a weekend, scale to millions. Supebase is an open source Firebase alternative providing all the backend features you need to build a product.',
   icons: {
-    icon: '/favicon.ico',
+    icon: '/icon.svg',
   },
 };
 
